@@ -3,7 +3,7 @@ const messages = [
     "Para la persona más importante...",
     "Que llena mi vida de amor...",
     "Y hace latir mi corazón...",
-    "Te quiero..."
+    "Te amo..."
 ];
 
 const emojis = ["❤️", "💖", "💝", "💕", "💗", "💓", "💞", "💘", "💌"];
